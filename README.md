@@ -20,12 +20,12 @@ We focus on applications of LLMs in areas including but not limited to:
 ## 📄 Papers
 
 ### load forecasting
-- [arXiv](https://arxiv.org/abs/2503.06216) A Novel Distributed PV Power Forecasting Approach Based on Time-LLM. *2025.05*
-- [IEEE TPS](https://ieeexplore.ieee.org/abstract/document/10917006) Empower Pre-Trained Large Language Models for Building-Level Load Forecasting. *2025.03*
-- [arXiv](https://arxiv.org/abs/2502.16896) Zero-shot Load Forecasting for Integrated Energy Systems: A Large Language Model-based Framework with Multi-task Learning. *2025.02*
-- [arXiv](https://arxiv.org/abs/2411.11350) Zero-Shot Load Forecasting with Large Language Models. *2024.11*
-- [arXiv](https://arxiv.org/abs/2406.11336) A General Framework for Load Forecasting based on Pre-trained Large Language Model. *2024.09*
-- [TechRxiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.170475236.64005369) LFLLM: A Large Language Model for Load Forecasting. *2024.01*
+- [arXiv](https://arxiv.org/abs/2503.06216) A Novel Distributed PV Power Forecasting Approach Based on Time-LLM. `2025.05`
+- [IEEE TPS](https://ieeexplore.ieee.org/abstract/document/10917006) Empower Pre-Trained Large Language Models for Building-Level Load Forecasting. `2025.03`
+- [arXiv](https://arxiv.org/abs/2502.16896) Zero-shot Load Forecasting for Integrated Energy Systems: A Large Language Model-based Framework with Multi-task Learning. `2025.02`
+- [arXiv](https://arxiv.org/abs/2411.11350) Zero-Shot Load Forecasting with Large Language Models. `2024.11`
+- [arXiv](https://arxiv.org/abs/2406.11336) A General Framework for Load Forecasting based on Pre-trained Large Language Model. `2024.09`
+- [TechRxiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.170475236.64005369) LFLLM: A Large Language Model for Load Forecasting. `2024.01`
 
 
 
