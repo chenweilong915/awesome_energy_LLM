@@ -11,7 +11,6 @@ We focus on applications of LLMs in areas including but not limited to:
 * **Load forecasting**
 * **Predicting**
 * **Smart grid and demand response**
-* **Smart grid and demand response**
 
 ## 📄 Papers
 
