@@ -29,8 +29,6 @@ We focus on applications of LLMs in areas including but not limited to:
 
 
 
-```
-
 
 ---
 
