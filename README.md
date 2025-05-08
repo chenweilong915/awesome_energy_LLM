@@ -127,3 +127,7 @@ Contributions are welcome! If you have papers, code, or datasets to share, feel 
 Maintained by [Weilong Chen](mailto:chenweilong921@gmail.com).
 If you find this project useful, feel free to ⭐️ star and share it.
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=chenweilong915/awesome_energy_LLM&type=Date)](https://www.star-history.com/#chenweilong915/awesome_energy_LLM&Date)
