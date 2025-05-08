@@ -25,8 +25,8 @@ We focus on applications of LLMs in areas including but not limited to:
 
 * **Load forecasting**
 * **Predicting**
-* **Smart grid and demand response**
 * **Optimal Power Flow (OPF)**
+* **Deep Reinforcement Learning related**
 * **⭐️Bonus⭐️: LLM-based Time Series Analysis**
 
 ## 📄 Papers
@@ -70,7 +70,7 @@ We focus on applications of LLMs in areas including but not limited to:
 
 
 
-### With Deep Reinforcement Learning
+### Deep Reinforcement Learning Related
 
 - [[Applied Energy](https://www.sciencedirect.com/science/article/pii/S0306261925005707)] Adaptive infinite-horizon control of hybrid EV/FCEV charging hubs: A large-model based deep reinforcement learning approach. `2025.07`
 
