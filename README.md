@@ -26,6 +26,8 @@ We focus on applications of LLMs in areas including but not limited to:
 * **Load forecasting**
 * **Predicting**
 * **Smart grid and demand response**
+* **Optimal Power Flow (OPF)**
+* **⭐️Bonus⭐️: LLM-based Time Series Analysis**
 
 ## 📄 Papers
 
@@ -58,6 +60,16 @@ We focus on applications of LLMs in areas including but not limited to:
 
 - [[TechRxiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.170475236.64005369)] LFLLM: A Large Language Model for Load Forecasting. `2024.01`
 
+### Optimal Power Flow (OPF)
+
+- [[Scientific reports](https://www.nature.com/articles/s41598-025-91940-x)] A large language model for advanced power dispatch. `2025.03`
+
+- [[arXiv](https://arxiv.org/abs/2501.07639)] SafePowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization with Large Language Models. `2025.01`
+
+- [[IEEE TPS](https://ieeexplore.ieee.org/document/10339881)] Real-Time Optimal Power Flow With Linguistic Stipulations: Integrating GPT-Agent and Deep Reinforcement Learning. `2023.11`
+
+
+
 ### With Deep Reinforcement Learning
 
 - [[Applied Energy](https://www.sciencedirect.com/science/article/pii/S0306261925005707)] Adaptive infinite-horizon control of hybrid EV/FCEV charging hubs: A large-model based deep reinforcement learning approach. `2025.07`
@@ -67,12 +79,38 @@ We focus on applications of LLMs in areas including but not limited to:
 
 
 
-### others
+### other topic
 - [[IEEE TSG](https://ieeexplore.ieee.org/document/10675341)] A Large Language Model for Determining Partial Tripping of Distributed Energy Resources. `2025.01`
 
 - [[IEEE TSG](https://ieeexplore.ieee.org/document/10663471)] Large Language Model for Smart Inverter Cyber-Attack Detection via Textual Analysis of Volt/VAR Commands. `2024.09`
 
 - [[IEEE TSG](https://ieeexplore.ieee.org/document/10459250)] Applying Large Language Models to Power Systems: Potential Security Threats. `2024.03`
+
+
+### ⭐️BONUS⭐️: LLM-based Time Series Analysis
+- [[arXiv](https://arxiv.org/abs/2410.18959)] Context is Key: A Benchmark for Forecasting with Essential Textual Information. `2025.02` [`code`](https://github.com/ServiceNow/context-is-key-forecasting)
+
+
+- [[ICLR 2025](https://arxiv.org/abs/2410.04803)] Timer-XL: Long-Context Transformers for Unified Time Series Forecasting. `2024.11` [`code`](https://github.com/thuml/Timer-XL)
+
+- [[NeurIPS 2024](https://arxiv.org/pdf/2402.02370)] AutoTimes: Autoregressive Time Series Forecasters via Large Language Models. `2024.10`  [`code`](https://github.com/thuml/AutoTimes)
+
+- [[NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/file/6ed5bf446f59e2c6646d23058c86424b-Paper-Conference.pdf)] Are Language Models Actually Useful for Time Series Forecasting? `2024.10` [`code`](https://github.com/BennyTMT/LLMsForTimeSeries)
+
+- [[WWW 2024](https://arxiv.org/pdf/2402.02370)] UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting. `2024.05`  [`code`](https://github.com/liuxu77/UniTime)
+
+- [[ICLR 2024](https://arxiv.org/abs/2310.04948)] TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting. `2024.05` [`code`](https://github.com/DC-research/TEMPO)
+
+- [[arXiv](https://arxiv.org/abs/2308.08241)] TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series. `2024.02`
+
+- [[ICLR 2024](https://arxiv.org/abs/2310.01728)] Time-LLM: Time Series Forecasting by Reprogramming Large Language Models. `2024.01` [`code`](https://github.com/KimMeen/Time-LLM)
+
+- [[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/86c17de05579cde52025f9984e6e2ebb-Paper-Conference.pdf)] One Fits All:
+Power General Time Series Analysis by Pretrained LM (FPT). `2023.10` [`code`](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)
+
+- [[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/3eb7ca52e8207697361b2c0fb3926511-Paper-Conference.pdf)] Large Language Models Are Zero-Shot Time Series Forecasters (LLMTime).  `2023.10` [`code`](https://github.com/ngruver/llmtime)
+
+- [[TKDE](https://arxiv.org/pdf/2210.08964)] PromptCast: A New Prompt-Based Learning Paradigm for Time Series Forecasting. `2022.09`
 
 
 
