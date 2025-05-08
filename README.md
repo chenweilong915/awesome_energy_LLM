@@ -13,7 +13,7 @@
   <a href="https://github.com/chenweilong915/awesome_energy_LLM/forks"> <img src="https://img.shields.io/github/forks/chenweilong915/awesome_energy_LLM.svg?style=popout-square" alt="GitHub forks"></a>
 </p>
 
-# Awesome Energy LLM papers
+
 
 This repository collects **papers**, **code**, and **resources** related to applying **Large Language Models (LLMs)** in the **energy domain**. The goal is to help researchers, engineers, and students stay up-to-date with recent advances, implementation practices, and emerging trends in this interdisciplinary field.
 
