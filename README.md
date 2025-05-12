@@ -88,7 +88,27 @@ We focus on applications of LLMs in areas including but not limited to:
 
 
 ### ⭐️BONUS⭐️: LLM-based Time Series Analysis
+
+#### survey
+
+- [[arXiv](https://arxiv.org/abs/2503.13709)] Multi-modal Time Series Analysis: A Tutorial and Survey. `2025.03` [`code`](https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis)
+
+- [[arXiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174317777.72957387)] Beyond Numbers: A Survey of Time Series Analysis in the Era of Multimodal LLMs. `2025.03` [`code`](https://github.com/mllm-ts/Awesome-Multimodal-LLMs-Time-Series)
+
+#### benchmark
+
+- [[arXiv](https://arxiv.org/abs/2503.01875)] Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement. `2025.02` [`code`](https://huggingface.co/Time-QA)
+
 - [[arXiv](https://arxiv.org/abs/2410.18959)] Context is Key: A Benchmark for Forecasting with Essential Textual Information. `2025.02` [`code`](https://github.com/ServiceNow/context-is-key-forecasting)
+
+
+#### technique paper
+
+- [[arXiv](https://arxiv.org/abs/2502.01477)] Position: Empowering Time Series Reasoning with Multimodal LLMs. `2025.02` [`code`](https://github.com/ServiceNow/context-is-key-forecasting)
+
+
+- [[mdpi](https://www.mdpi.com/2073-8994/17/3/401)] [Position: Empowering Time Series Reasoning with Multimodal LLMs](https://www.mdpi.com/2073-8994/17/3/401). `2025.01` 
+
 
 
 - [[ICLR 2025](https://arxiv.org/abs/2410.04803)] Timer-XL: Long-Context Transformers for Unified Time Series Forecasting. `2024.11` [`code`](https://github.com/thuml/Timer-XL)
@@ -111,6 +131,17 @@ Power General Time Series Analysis by Pretrained LM (FPT). `2023.10` [`code`](ht
 - [[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/3eb7ca52e8207697361b2c0fb3926511-Paper-Conference.pdf)] Large Language Models Are Zero-Shot Time Series Forecasters (LLMTime).  `2023.10` [`code`](https://github.com/ngruver/llmtime)
 
 - [[TKDE](https://arxiv.org/pdf/2210.08964)] PromptCast: A New Prompt-Based Learning Paradigm for Time Series Forecasting. `2022.09`
+
+
+
+---
+
+## 📌 Other related repo
+
+[`Awesome-Multimodal-LLMs-Time-Series`](https://github.com/mllm-ts/Awesome-Multimodal-LLMs-Time-Series)
+
+[`Multi-modal-Time-Series-Analysis`](https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis)
+
 
 
 
