@@ -107,7 +107,7 @@ We focus on applications of LLMs in areas including but not limited to:
 - [[arXiv](https://arxiv.org/abs/2502.01477)] Position: Empowering Time Series Reasoning with Multimodal LLMs. `2025.02` [`code`](https://github.com/ServiceNow/context-is-key-forecasting)
 
 
-- [[mdpi](https://www.mdpi.com/2073-8994/17/3/401)] [Position: Empowering Time Series Reasoning with Multimodal LLMs](https://www.mdpi.com/2073-8994/17/3/401). `2025.01` 
+- [[mdpi](https://www.mdpi.com/2073-8994/17/3/401)] TS-HTFA: Advancing Time-Series Forecasting via Hierarchical Text-Free Alignment with Large Language Models. `2025.01` 
 
 
 
