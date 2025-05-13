@@ -117,7 +117,13 @@ We focus on applications of LLMs in areas including but not limited to:
 
 - [[NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/file/6ed5bf446f59e2c6646d23058c86424b-Paper-Conference.pdf)] Are Language Models Actually Useful for Time Series Forecasting? `2024.10` [`code`](https://github.com/BennyTMT/LLMsForTimeSeries)
 
+- [[ArXiv](https://arxiv.org/abs/2410.10469)] Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts. `2024.10` 
+
 - [[WWW 2024](https://arxiv.org/pdf/2402.02370)] UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting. `2024.05`  [`code`](https://github.com/liuxu77/UniTime)
+
+- [[ArXiv](https://arxiv.org/abs/2402.02592)] Unified Training of Universal Time Series Forecasting Transformers (Moirai). `2024.05` [`code`](https://github.com/SalesforceAIResearch/uni2ts)
+
+- [[ICLR 2024](https://arxiv.org/abs/2402.03885)] MOMENT: A Family of Open Time-series Foundation Models. `2024.05` [`code`](https://huggingface.co/AutonLab/MOMENT-1-large)
 
 - [[ICLR 2024](https://arxiv.org/abs/2310.04948)] TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting. `2024.05` [`code`](https://github.com/DC-research/TEMPO)
 
