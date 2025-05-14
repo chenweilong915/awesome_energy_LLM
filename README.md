@@ -104,14 +104,14 @@ We focus on applications of LLMs in areas including but not limited to:
 
 #### technique paper
 
-- [[arXiv](https://arxiv.org/abs/2502.01477)] Position: Empowering Time Series Reasoning with Multimodal LLMs. `2025.02` [`code`](https://github.com/ServiceNow/context-is-key-forecasting)
+- [[arXiv](https://arxiv.org/abs/2502.01477)] Position: Empowering Time Series Reasoning with Multimodal LLMs. `2025.02` [`code`](https://github.com/ServiceNow/context-is-key-forecasting) [`微信公众号`](https://mp.weixin.qq.com/s/PhSwaqa102YCzOwbPxLWWQ)
 
 
 - [[mdpi](https://www.mdpi.com/2073-8994/17/3/401)] TS-HTFA: Advancing Time-Series Forecasting via Hierarchical Text-Free Alignment with Large Language Models. `2025.01` 
 
 
 
-- [[ICLR 2025](https://arxiv.org/abs/2410.04803)] Timer-XL: Long-Context Transformers for Unified Time Series Forecasting. `2024.11` [`code`](https://github.com/thuml/Timer-XL)
+- [[ICLR 2025](https://arxiv.org/abs/2410.04803)] Timer-XL: Long-Context Transformers for Unified Time Series Forecasting. `2024.11` [`code`](https://github.com/thuml/Timer-XL) [`微信公众号`](https://mp.weixin.qq.com/s/IFqysOWo1prdjeBpCiNXBg)
 
 - [[NeurIPS 2024](https://arxiv.org/pdf/2402.02370)] AutoTimes: Autoregressive Time Series Forecasters via Large Language Models. `2024.10`  [`code`](https://github.com/thuml/AutoTimes)
 
