@@ -109,11 +109,11 @@ We focus on applications of LLMs in areas including but not limited to:
 
 - [[mdpi](https://www.mdpi.com/2073-8994/17/3/401)] TS-HTFA: Advancing Time-Series Forecasting via Hierarchical Text-Free Alignment with Large Language Models. `2025.01` 
 
-
+- [[TMLR](https://arxiv.org/abs/2410.04803)] Chronos: Learning the Language of Time Series. `2024.11` [`code`](https://github.com/amazon-science/chronos-forecasting) [`blog`](https://www.amazon.science/blog/adapting-language-model-architectures-for-time-series-forecasting)
 
 - [[ICLR 2025](https://arxiv.org/abs/2410.04803)] Timer-XL: Long-Context Transformers for Unified Time Series Forecasting. `2024.11` [`code`](https://github.com/thuml/Timer-XL) [`微信公众号`](https://mp.weixin.qq.com/s/IFqysOWo1prdjeBpCiNXBg)
 
-- [[NeurIPS 2024](https://arxiv.org/pdf/2402.02370)] AutoTimes: Autoregressive Time Series Forecasters via Large Language Models. `2024.10`  [`code`](https://github.com/thuml/AutoTimes)
+- [[NeurIPS 2024](https://arxiv.org/pdf/2402.02370)] AutoTimes: Autoregressive Time Series Forecasters via Large Language Models. `2024.10`  [`code`](https://github.com/thuml/AutoTimes) [`微信公众号`](https://mp.weixin.qq.com/s/BiMptoer_7xTBaVgHPI9xg)
 
 - [[NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/file/6ed5bf446f59e2c6646d23058c86424b-Paper-Conference.pdf)] Are Language Models Actually Useful for Time Series Forecasting? `2024.10` [`code`](https://github.com/BennyTMT/LLMsForTimeSeries)
 
@@ -123,9 +123,13 @@ We focus on applications of LLMs in areas including but not limited to:
 
 - [[ArXiv](https://arxiv.org/abs/2402.02592)] Unified Training of Universal Time Series Forecasting Transformers (Moirai). `2024.05` [`code`](https://github.com/SalesforceAIResearch/uni2ts)
 
+
+
 - [[ICLR 2024](https://arxiv.org/abs/2402.03885)] MOMENT: A Family of Open Time-series Foundation Models. `2024.05` [`code`](https://huggingface.co/AutonLab/MOMENT-1-large)
 
 - [[ICLR 2024](https://arxiv.org/abs/2310.04948)] TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting. `2024.05` [`code`](https://github.com/DC-research/TEMPO)
+
+- [[ICML 2024](https://arxiv.org/abs/2310.10688)] A decoder-only foundation model for time-series forecasting. `2024.04` [`code`](https://github.com/google-research/timesfm)
 
 - [[arXiv](https://arxiv.org/abs/2308.08241)] TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series. `2024.02`
 
