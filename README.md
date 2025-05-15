@@ -104,6 +104,8 @@ We focus on applications of LLMs in areas including but not limited to:
 
 #### technique paper
 
+- [[VLDB 25](https://arxiv.org/abs/2412.03104)] ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning. `2025.04` [`code`](https://github.com/NetManAIOps/ChatTS) [`微信公众号`](https://mp.weixin.qq.com/s/6a9LCaaZPemXHSZOmiik0g)
+
 - [[arXiv](https://arxiv.org/abs/2502.01477)] Position: Empowering Time Series Reasoning with Multimodal LLMs. `2025.02` [`code`](https://github.com/ServiceNow/context-is-key-forecasting) [`微信公众号`](https://mp.weixin.qq.com/s/PhSwaqa102YCzOwbPxLWWQ)
 
 
