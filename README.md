@@ -97,6 +97,8 @@ We focus on applications of LLMs in areas including but not limited to:
 
 #### benchmark
 
+- [[arXiv](https://arxiv.org/abs/2405.13522)] Intervention-Aware Forecasting: Breaking Historical Limits from a System Perspective. `2025.05` [`code1`](https://github.com/VEWOXIC/Universal-Cross-Modal-Time-Series-Forecasting-Pipeline) [code2](https://github.com/VEWOXIC/TGTSF) [dataset](https://github.com/VEWOXIC/Weather-Captioned) [微信公众号](https://mp.weixin.qq.com/s/w5xIAr11M6qmwMh7tDw92w)
+
 - [[arXiv](https://arxiv.org/abs/2503.01875)] Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement. `2025.02` [`code`](https://huggingface.co/Time-QA)
 
 - [[arXiv](https://arxiv.org/abs/2410.18959)] Context is Key: A Benchmark for Forecasting with Essential Textual Information. `2025.02` [`code`](https://github.com/ServiceNow/context-is-key-forecasting)
@@ -104,7 +106,7 @@ We focus on applications of LLMs in areas including but not limited to:
 
 #### technique paper
 
-
+- [[arXiv](https://arxiv.org/abs/2505.02138)] Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation. `2025.05` 
 
 - [[VLDB 25](https://arxiv.org/abs/2412.03104)] ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning. `2025.04` [`code`](https://github.com/NetManAIOps/ChatTS) [`微信公众号`](https://mp.weixin.qq.com/s/6a9LCaaZPemXHSZOmiik0g)
 
