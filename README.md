@@ -105,6 +105,7 @@ We focus on applications of LLMs in areas including but not limited to:
 
 
 #### technique paper
+- [[arXiv](https://arxiv.org/abs/2506.10630)] Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs. `2025.06` 
 
 - [[arXiv](https://arxiv.org/abs/2505.02138)] Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation. `2025.05` 
 
