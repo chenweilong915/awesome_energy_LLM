@@ -93,7 +93,7 @@ We focus on applications of LLMs in areas including but not limited to:
 
 - [[IEEE TSG](https://ieeexplore.ieee.org/document/10459250)] Applying Large Language Models to Power Systems: Potential Security Threats. `2024.03`
 
-
+- [[Arxiv](https://arxiv.org/pdf/2408.03847)] GAIA -- A Large Language Model for Advanced Power Dispatch. `2024.08`
 
 
 ### ⭐️BONUS⭐️: LLM-based Time Series Analysis
