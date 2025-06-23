@@ -31,6 +31,11 @@ We focus on applications of LLMs in areas including but not limited to:
 
 ## 📄 Papers
 
+### Survey
+
+- [[Arxiv](https://arxiv.org/pdf/2506.06359)] From Transformers to Large Language Models: A systematic review of AI applications in the energy sector towards Agentic Digital Twins. `2025.06`
+
+
 ### Forecasting and Predicting
 - [[Applied Energy](https://www.sciencedirect.com/science/article/pii/S0306261925006956)] MMGPT4LF: Leveraging an optimized pre-trained GPT-2 model with multi-modal cross-attention for load forecasting. `2025.08`
 
@@ -84,7 +89,11 @@ We focus on applications of LLMs in areas including but not limited to:
 
 - [[IEEE TSG](https://ieeexplore.ieee.org/document/10663471)] Large Language Model for Smart Inverter Cyber-Attack Detection via Textual Analysis of Volt/VAR Commands. `2024.09`
 
+- [[Arxiv](https://arxiv.org/pdf/2408.03847)] GAIA -- A Large Language Model for Advanced Power Dispatch. `2024.08`
+
 - [[IEEE TSG](https://ieeexplore.ieee.org/document/10459250)] Applying Large Language Models to Power Systems: Potential Security Threats. `2024.03`
+
+
 
 
 ### ⭐️BONUS⭐️: LLM-based Time Series Analysis
