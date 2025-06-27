@@ -39,6 +39,8 @@ We focus on applications of LLMs in areas including but not limited to:
 ### Forecasting and Predicting
 - [[Applied Energy](https://www.sciencedirect.com/science/article/pii/S0306261925006956)] MMGPT4LF: Leveraging an optimized pre-trained GPT-2 model with multi-modal cross-attention for load forecasting. `2025.08`
 
+- [[Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417425010589)] Prompting large language model for multi-location multi-step zero-shot wind power forecasting.`2025.06`
+
 - [[arXiv](https://arxiv.org/abs/2503.06216)] A Novel Distributed PV Power Forecasting Approach Based on Time-LLM. `2025.05`
 
 - [[Applied Energy](https://www.sciencedirect.com/science/article/pii/S0306261925001023)] Implementing a provincial-level universal daily industrial carbon emissions prediction by fine-tuning the large language model. `2025.04`
