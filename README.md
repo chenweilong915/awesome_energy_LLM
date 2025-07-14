@@ -104,8 +104,7 @@ We focus on applications of LLMs in areas including but not limited to:
 
 - [[arXiv](https://arxiv.org/abs/2503.13709)] Multi-modal Time Series Analysis: A Tutorial and Survey. `2025.03` [`code`](https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis)
 
-- [[arXiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174317777.72957387)] Beyond Numbers: A Survey of Time Series Analysis in the Era of Multimodal LLMs. `2025.03` [`code`](https://github.com/mllm-ts/Awesome-Multimodal-LLMs-Time-Series)
-
+- [[arXiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174317777.72957387)] Beyond Numbers: A Survey of Time Series Analysis in the Era of Multimodal LLMs. `2025.03` [`code`](https://github.com/mllm-ts/Awesome-Multimodal-LLMs-Time-Series
 #### benchmark
 
 - [[arXiv](https://arxiv.org/abs/2405.13522)] Intervention-Aware Forecasting: Breaking Historical Limits from a System Perspective. `2025.05` [`code1`](https://github.com/VEWOXIC/Universal-Cross-Modal-Time-Series-Forecasting-Pipeline) [code2](https://github.com/VEWOXIC/TGTSF) [dataset](https://github.com/VEWOXIC/Weather-Captioned) [微信公众号](https://mp.weixin.qq.com/s/w5xIAr11M6qmwMh7tDw92w)
@@ -116,6 +115,10 @@ We focus on applications of LLMs in areas including but not limited to:
 
 
 #### technique paper
+- [[arXiv](https://arxiv.org/abs/2506.08641)] Time Series Representations for Classification Lie Hidden in Pretrained Vision Transformers. `2025.07` 
+
+- [[arXiv](https://arxiv.org/abs/2506.01290)] TSRating: Rating Quality of Diverse Time Series Data by Meta-learning from LLM Judgment. `2025.06` 
+
 - [[arXiv](https://arxiv.org/abs/2506.10630)] Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs. `2025.06` 
 
 - [[arXiv](https://arxiv.org/abs/2505.02138)] Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation. `2025.05` 
